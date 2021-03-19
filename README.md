@@ -1,1 +1,1 @@
-"# AutoDumpAnalyzer" 
+# AutoDumpAnalyzer
